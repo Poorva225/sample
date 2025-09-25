@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Medicine Tracker",
+  "description": "A smart medicine tracker application that helps you manage your medication schedule and provides helpful information about your prescriptions using the Gemini API.",
+  "requestFramePermissions": []
+}
